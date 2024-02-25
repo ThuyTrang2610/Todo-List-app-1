@@ -30,7 +30,7 @@
             android:value="@integer/google_play_services_version" /> <!-- Google Maps API KEY -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCJHFIuGapB_Eeihy0Nh6LmSZ8Elao5TzA" /> <!-- Define the notification channel -->
+            android:value="" /> <!-- Define the notification channel -->
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_channel_id"
             android:value="@string/default_notification_channel_id" /> <!-- Register the BroadcastReceiver -->
